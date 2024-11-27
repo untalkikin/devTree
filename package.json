@@ -1,0 +1,21 @@
+{
+  "name": "devtree",
+  "version": "1.0.0",
+  "description": "devTree",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index.js"
+  },
+  "keywords": [
+    "Practice",
+    "exercice"
+  ],
+  "author": "JETL",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.7"
+  }
+}
